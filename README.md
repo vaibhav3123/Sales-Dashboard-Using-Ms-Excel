@@ -37,15 +37,6 @@ The dashboard enables users to:
 - Conditional Formatting
 - Cell Formatting & Formulas
 
-## 🎯 Use Case
-
-This dashboard is useful for:
-
-- Sales Analysts & Business Intelligence professionals
-- Excel learners exploring data visualization
-- Small business owners for performance tracking
-- Academic or portfolio projects
-
 ## 📬 Contact
 
 📧 Email: bariv219@gmail.com  
