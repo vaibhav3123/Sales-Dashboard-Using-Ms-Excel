@@ -49,5 +49,5 @@ This dashboard is useful for:
 ## 📬 Contact
 
 📧 Email: bariv219@gmail.com  
-💼 LinkedIn: [linkedin.com/in/vaibhavbari](https://linkedin.com/in/vaibhavbari) 
+💼 LinkedIn: [linkedin.com/in/vaibhavbari](https://www.linkedin.com/in/vaibhav-bari-915bb5202/)
 
