@@ -1,2 +1,53 @@
-# Sales-Dashboard-Using-Ms-Excel-
-This project visualizes sales data with dynamic charts, slicers, and KPIs (like total sales and profit). Designed to help analyze regional and category-wise performance in a clear, professional layout
+# 📊 Sales Dashboard Using MS Excel
+
+This project showcases an interactive Sales Dashboard built using Microsoft Excel. It provides a comprehensive view of sales and profit performance across different regions, product categories, and products using well-designed visual elements and Excel features.
+
+## 🔍 Overview
+
+The dashboard enables users to:
+
+- Monitor **Total Sales** and **Total Profit**
+- Analyze **Sales vs Profit** by region
+- View **Order Count by Category**
+- Visualize **Profit by Product Category**
+- Filter data using **slicers** for Region, Category, and Product
+
+## ✨ Features
+
+- 📌 **Interactive Slicers** to filter data by Region, Category, and Product  
+- 📊 **Dynamic Charts** including Pie, Bar, and Column charts  
+- 📈 **KPI Cards** for Total Sales and Total Profit  
+- 🗃️ **Pivot Tables** for data aggregation  
+- 🎨 Clean and visually appealing layout
+
+## 💡 Insights Gained
+
+- **Total Sales**: 770 Million  
+- **Total Profit**: 115 Million  
+- **Highest Sales Region**: North  
+- **Top-Selling Category**: Electronics  
+- **Most Profitable Category**: Electronics  
+
+## 🧰 Tools & Techniques Used
+
+- Microsoft Excel (Desktop)
+- Pivot Tables
+- Slicers
+- Charts (Bar, Column, Pie)
+- Conditional Formatting
+- Cell Formatting & Formulas
+
+## 🎯 Use Case
+
+This dashboard is useful for:
+
+- Sales Analysts & Business Intelligence professionals
+- Excel learners exploring data visualization
+- Small business owners for performance tracking
+- Academic or portfolio projects
+
+## 📬 Contact
+
+📧 Email: bariv219@gmail.com  
+💼 LinkedIn: [linkedin.com/in/vaibhavbari](https://linkedin.com/in/vaibhavbari) 
+
